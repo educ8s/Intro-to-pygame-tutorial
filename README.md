@@ -21,4 +21,3 @@ Welcome to the easiest introduction to game development with pygame in python. I
 | 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
 | 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
 </p>
-
